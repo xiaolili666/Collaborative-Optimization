@@ -33,7 +33,8 @@ This is the official repository for our paper, "CONet: A Collaborative Dual-Netw
 <img width="406" height="349" alt="image" src="https://github.com/user-attachments/assets/782f8157-734c-4033-890b-451755962a87" />
 
 ## FDPNet ablation experiments
-<img width="390" height="390" alt="image" src="https://github.com/user-attachments/assets/a4d7d9fd-a575-4960-965a-02039c60b696" />
+<img width="438" height="392" alt="image" src="https://github.com/user-attachments/assets/0a0e9ed5-b8df-4aff-8703-e5bf9ae4603b" />
+
 
 ## ASSNet ablation experiments
 <img width="426" height="416" alt="image" src="https://github.com/user-attachments/assets/d7079e72-f3aa-47de-b82f-e9171047777d" />

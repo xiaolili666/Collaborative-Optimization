@@ -45,12 +45,12 @@ This is the official repository for our paper, "CONet: A Collaborative Dual-Netw
 You can download the pre-trained weights and visualization results from the following link:
 
 Link: Baidu Netdisk: 
-链接: https://pan.baidu.com/s/19XHRLgCTRcK9S5g-lwNhwA 
+链接: [https://pan.baidu.com/s/19XHRLgCTRcK9S5g-lwNhwA](https://pan.baidu.com/s/11j_o9Ny7lahWUcGAT0qnag) 
 
 
 ### Base Framework and Dataset
 The base framework and the dataset used in our work can be obtained from the following repository:
-链接: https://pan.baidu.com/s/19XHRLgCTRcK9S5g-lwNhwA 
+链接: [https://pan.baidu.com/s/19XHRLgCTRcK9S5g-lwNhwA ](https://pan.baidu.com/s/11j_o9Ny7lahWUcGAT0qnag)
 ### Code Release
 The complete source code will be released upon the acceptance of our paper. Stay tuned!
 ### Contact

@@ -23,8 +23,16 @@ This is the official repository for our paper, "CONet: A Collaborative Dual-Netw
 
 ## Results
 <img width="446" height="292" alt="image" src="https://github.com/user-attachments/assets/d517331b-b640-4f11-96cc-afa2e3a09943" />
+### Comparison of Rail Defect Detection Results
+<img width="655" height="309" alt="image" src="https://github.com/user-attachments/assets/a84080c3-74bf-4bc7-a523-b61b24eb85ce" />
 
-### Weights and Visualization Results
+## CONet ablation experiments
+<img width="649" height="186" alt="image" src="https://github.com/user-attachments/assets/fccbc054-6649-4eb2-9166-a62110915894" />
+<img width="420" height="349" alt="image" src="https://github.com/user-attachments/assets/25da253e-52fa-4ffe-b534-5a5899907d77" />
+<img width="406" height="349" alt="image" src="https://github.com/user-attachments/assets/782f8157-734c-4033-890b-451755962a87" />
+
+
+## Weights and Visualization Results
 You can download the pre-trained weights and visualization results from the following link:
 
 Link: Baidu Netdisk: 

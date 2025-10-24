@@ -23,13 +23,20 @@ This is the official repository for our paper, "CONet: A Collaborative Dual-Netw
 
 ## Results
 <img width="446" height="292" alt="image" src="https://github.com/user-attachments/assets/d517331b-b640-4f11-96cc-afa2e3a09943" />
-### Comparison of Rail Defect Detection Results
+## Comparison of Rail Defect Detection Results
 <img width="655" height="309" alt="image" src="https://github.com/user-attachments/assets/a84080c3-74bf-4bc7-a523-b61b24eb85ce" />
 
 ## CONet ablation experiments
 <img width="649" height="186" alt="image" src="https://github.com/user-attachments/assets/fccbc054-6649-4eb2-9166-a62110915894" />
 <img width="420" height="349" alt="image" src="https://github.com/user-attachments/assets/25da253e-52fa-4ffe-b534-5a5899907d77" />
 <img width="406" height="349" alt="image" src="https://github.com/user-attachments/assets/782f8157-734c-4033-890b-451755962a87" />
+
+## FDPNet ablation experiments
+<img width="390" height="390" alt="image" src="https://github.com/user-attachments/assets/a4d7d9fd-a575-4960-965a-02039c60b696" />
+
+## ASSNet ablation experiments
+<img width="376" height="143" alt="image" src="https://github.com/user-attachments/assets/0cc76cd0-8a5f-4fd0-91eb-54e7a1fddad1" />
+<img width="432" height="280" alt="image" src="https://github.com/user-attachments/assets/ec27509f-db3f-4ac6-b0b3-970e6461411e" />
 
 
 ## Weights and Visualization Results
